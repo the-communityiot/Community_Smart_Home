@@ -80,3 +80,19 @@ Here is the image of how the **delete license plate** page should look like afte
 
 **Creation of EC2:**
 1) Head into EC2 and launch an instance  
+![](Screenshots_and_setup/launchinstance.jpg)  
+2) Click on launch instance and you will be greeted with the choose amazon machine page  
+![](Screenshots_and_setup/chooseinstance.jpg)  
+3) Click on select for the first option in the image shown and you will be able choose your instance type  
+![](Screenshots_and_setup/choosetype.jpg)  
+4) Click on the option in the image and click on next and you will be able to configure the instance details  
+![](Screenshots_and_setup/configureinstance.jpg)  
+![](Screenshots_and_setup/configureinstance-2.jpg)  
+5) Fill in all the necessary details and click on next
+6) Next will be adding a storage  
+![](Screenshots_and_setup/addstorage.jpg)  
+7) Fill in necessary details and click on next then you will be greeted with the add tags page  
+![](Screenshots_and_setup/addtags.jpg)  
+8) Fill in the necessary details and click on next. You will be greeted with the configure security page  
+![](Screenshots_and_setup/configuresecurity.jpg)  
+
