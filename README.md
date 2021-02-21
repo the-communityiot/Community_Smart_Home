@@ -101,3 +101,13 @@ Here is the image of how the **delete license plate** page should look like afte
 **Amazon Rekognition and S3**  
 1) Click on the amazon s3 services  
 2) Create a new bucket  
+![](Screenshots_and_setup/createbucketbutton.jpg)  
+3) Click on create bucket  
+4) You will be greeted with a bucket setup page  
+![](Screenshots_and_setup/createbucketsetup-1.jpg)  
+![](Screenshots_and_setup/createbucketsetup-2.jpg)  
+5) Click on Create Bucket  
+6) Regarding the facial rekognition feature, use the created bucket to store the image taken from the picamera and it will recognise what is the license plate  
+![](Screenshots_and_setup/facialrekognition.jpg)  
+
+**IOT CORE**  
