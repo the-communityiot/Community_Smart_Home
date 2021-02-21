@@ -70,5 +70,8 @@ Here is the image of how the **delete license plate** page should look like afte
 2) Click "Create table".
 3) Fill in the fields accordingly:  
 <img src="Screenshots_and_setup/creationofDB.PNG" width="100%">  
-4) Click on "Create" once you are done
-5) The database will now be created
+4) Click on "Create" once you are done  
+5) The database will now be created  
+<img src="Screenshots_and_setup/createdloginDB.jpg" width="100%">  
+6) Repeat the same steps for the rest of the database
+7) The following images shows the rest of the Database that we have:  
