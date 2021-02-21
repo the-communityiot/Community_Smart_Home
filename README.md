@@ -63,7 +63,20 @@ Here is the image of how the **delete license plate** page should look like afte
 1) DynamoDB
 2) EC2
 3) Amazon Rekognition
-4) IOT core
+4) IOT core  
 
+**Creation of DynamoDB:**  
+1) Head to AWS DynamoDB and on the left navigation pane click "Tables"   
+2) Click "Create table"  
+3) Fill in the fields accordingly  
+![](Screenshots_and_setup/creationofDB.PNG)  
+4) Click on "Create"  
+5) Follow the same steps and create the other tables  
+![](Screenshots_and_setup/createdloginDB.jpg)  
+![](Screenshots_and_setup/DaynightDB.jpg)  
+![](Screenshots_and_setup/licenseDB.jpg)  
+![](Screenshots_and_setup/lightDB.jpg)  
+![](Screenshots_and_setup/temperatureDB.jpg)  
 
-
+**Creation of EC2:**
+1) Head into EC2 and launch an instance  
