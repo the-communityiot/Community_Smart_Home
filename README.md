@@ -111,3 +111,30 @@ Here is the image of how the **delete license plate** page should look like afte
 ![](Screenshots_and_setup/facialrekognition.jpg)  
 
 **IOT CORE**  
+1) Click on IOT core  
+2) On the left pane click on Act followed by rules in the dropdown  
+3) Once in the rules page, click on "Create"  
+![](Screenshots_and_setup/listofrules.jpg)  
+4) You will be greeted with the create rule page  
+![](Screenshots_and_setup/Createrule.jpg)  
+5) Fill in the necessary details and click on add action  
+![](Screenshots_and_setup/setaction.jpg)  
+6) You will be greeted with a list of actions. Select the split message into multiple columns of a DynamoDB table action.  
+![](Screenshots_and_setup/selectaction.jpg)  
+7) Click on "Configure action" once you are done  
+![](Screenshots_and_setup/selectactionbutton.jpg)  
+8) Click on "Create Rule"  
+![](Screenshots_and_setup/setaction.jpg)  
+
+**Steps to run the program**  
+1) Open WinSCP  
+2) Connect to EC2 server  
+3) Ctrl+P to open PuTTY  
+4) Navigate to server.py folder in EC2  
+5) In command prompt type "python3.8 server.py" and run the code  
+6) Server will be launched  
+![](Screenshots_and_setup/ec2.PNG)  
+7) Open VNC viewer  
+8) Connect to RPI  
+9) RUN smarthome.py on command prompt in RPI  
+![](Screenshots_and_setup/smarthome.PNG)  
