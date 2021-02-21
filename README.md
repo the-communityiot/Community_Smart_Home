@@ -62,7 +62,7 @@ Here is the image of how the **delete license plate** page should look like afte
 **Creation of AWS services:**  
 1) DynamoDB
 2) EC2
-3) Amazon Rekognition
+3) Amazon Rekognition and S3
 4) IOT core  
 
 **Creation of DynamoDB:**  
@@ -95,4 +95,9 @@ Here is the image of how the **delete license plate** page should look like afte
 ![](Screenshots_and_setup/addtags.jpg)  
 8) Fill in the necessary details and click on next. You will be greeted with the configure security page  
 ![](Screenshots_and_setup/configuresecurity.jpg)  
+9) Click on next  
+10) On the last page, just review the settings and launch the EC2 instance  
 
+**Amazon Rekognition and S3**  
+1) Click on the amazon s3 services  
+2) Create a new bucket  
